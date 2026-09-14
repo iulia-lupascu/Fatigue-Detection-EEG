@@ -1,4 +1,4 @@
-## Driving fatigue detection through transfer learning
+## Driving fatigue detection through a hybrid LSTM Transformer model
 
 ### Description
 This project involves an EEG-based method for detecting driver drowsiness using a hybrid LSTM-Transformer architecture. 
