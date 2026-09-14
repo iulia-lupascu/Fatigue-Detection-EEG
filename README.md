@@ -14,3 +14,6 @@ Supervised learning was implemented to classify whether a subject is drowsy or a
 
 ### Evaluation
 Given the nature of the task, which requires predicting a binary outcome, the following evaluation metrics were employed: accuracy, precision, recall, and F1 score for obtaining the model performance, and ROC-AUC for quantifying the true and false positive rates.
+
+### Results
+After performing hyperparameter tuning, the model achieved an accuracy of 76.8%, a strong precision score of 83.3%, indicating reliable idenfication of fatigue with minor false alarms, a recall of 69.4%, and an F1 score of 0.74.
